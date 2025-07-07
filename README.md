@@ -1,0 +1,2 @@
+# Feature_engineering_Using_EDA
+This project demonstrates how Exploratory Data Analysis (EDA) can be combined with Feature Engineering to improve the performance of machine learning models. Using a real-world dataset, we explore data distributions, handle missing values, detect outliers, and create new meaningful features that significantly enhance model accuracy. 
